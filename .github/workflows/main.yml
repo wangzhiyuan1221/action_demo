@@ -37,7 +37,8 @@ jobs:
           git config --global user.name wangzhiyuan
           git add .
           git commit -m "update loveWords.md" -a
-		  
+
+      # push changes
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
