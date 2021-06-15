@@ -1,5 +1,8 @@
 ## 每日心语
 
+#### 2021-06-15
+- 你看，耳机是一对，我们也是一对
+
 #### 2021-06-14
 - "How far are you from me,O Fruit?" "I am hidden in your heart,O Flower."
 
